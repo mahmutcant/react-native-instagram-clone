@@ -21,7 +21,7 @@ function Stories(){
                 <View key={story.id} style={styles.story}>
                 <LinearGradient colors={['#C913B9', '#F9373F',"#FECD00"]} style={styles.cover}>
                     <Image style={styles.userImage} source={{
-                        uri: story.user.photo
+                        uri: story.user.photo ?? "https://instagram.fmad19-1.fna.fbcdn.net/v/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?_nc_ad=z-m&_nc_ht=instagram.fmad19-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=DPMT5mxeO5sQ7kNvgF275Dx&edm=ALlQn9MBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.2-ccb7-5&oh=00_AYBqukNufllaEJP7RWHsD16HNNXXV-XjdkGQRFywO6Bs4Q&oe=6695D78F&_nc_sid=e7f676"
                     }}/>
                 </LinearGradient>
                 <Text style={styles.userName} numberOfLines={1}>{story.user.nickName}</Text>

@@ -42,19 +42,11 @@ export default [
         }
     },
     {
-        id: 5,
-        user: {
-            name: "y a s i n r a m a z a n g ö k",
-            nickName: "yasinramazancodes",
-            photo: "https://instagram.fada1-12.fna.fbcdn.net/v/t51.2885-19/433343873_2074719379567725_9199203914762968818_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fada1-12.fna.fbcdn.net&_nc_cat=109&_nc_ohc=-8l2t9zBopgQ7kNvgELET5c&edm=APHcPcMBAAAA&ccb=7-5&oh=00_AYD59pagdL3BBzqCKQLcliStHL9ucq4sNlDHGYbNDZxwZA&oe=6692C4D0&_nc_sid=bef7bc"
-        }
-    },
-    {
         id: 6,
         user: {
-            name: "Can Karacan",
-            nickName: "cankrcn_",
-            photo: "https://instagram.fada1-13.fna.fbcdn.net/v/t51.2885-19/328685249_126435890337911_4174449427723427327_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fada1-13.fna.fbcdn.net&_nc_cat=111&_nc_ohc=LGaZswJjOisQ7kNvgEpfWA-&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYBpBK5pXGPZpCeapzAuxmkioDx4lcHZyxQIXNGx-IO5xQ&oe=6692EA10&_nc_sid=8f1549"
+            name: "Instagram",
+            nickName: "instagram",
+            photo: "https://instagram.fada1-11.fna.fbcdn.net/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fada1-11.fna.fbcdn.net&_nc_cat=1&_nc_ohc=-3XhalnxRi8Q7kNvgEtGdYx&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYBFiE53FWOWeheMEZw9AeatnhaFwas47b5q--DMBeB00w&oe=6695D7D8&_nc_sid=8f1549"
         }
     }
 ]
