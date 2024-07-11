@@ -13,7 +13,7 @@ This is a React Native application that replicates key features of Instagram. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/instagram-clone.git
+   git clone https://github.com/mahmutcant/react-native-instagram-clone.git
    cd instagram-clone
    ```
 2. Install Dependencies:
