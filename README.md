@@ -31,3 +31,6 @@ This is a React Native application that replicates key features of Instagram. Th
    yarn start
    ```
 ![image info](./main-page.png)
+![image info](./profile-page.png)
+![image info](./reels-screen.png)
+![image info](./tagged-post.png)
