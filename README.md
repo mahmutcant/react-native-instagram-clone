@@ -30,4 +30,4 @@ This is a React Native application that replicates key features of Instagram. Th
    # or 
    yarn start
    ```
-![image info](./main-page.png.png)
+![image info](./main-page.png)
